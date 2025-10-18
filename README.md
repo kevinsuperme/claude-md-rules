@@ -269,8 +269,8 @@ const UserCard: React.FC<UserProps> = ({ user, onEdit }) => {
 
 如有问题或建议，请通过以下方式联系：
 
-- 创建 [Issue](https://github.com/Lance-He/Claude-Rules/issues)
-- 发送邮件至：hesiqi.china@gmail.com
+- 创建 [Issue](https://github.com/kevinsuperme/Claude-Rules/issues)
+- 发送邮件至：iphone.com@live.cn
 
 ## 🙏 致谢
 
