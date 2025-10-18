@@ -577,7 +577,7 @@ import java.util.List;
 /**
  * 用户管理 Controller
  *
- * @author LeoCoder
+ * @author SuperKevin
  * @since 2025-10-19
  */
 @RestController
@@ -674,7 +674,7 @@ import java.util.stream.Collectors;
 /**
  * 用户服务实现
  *
- * @author LeoCoder
+ * @author SuperKevin
  * @since 2025-10-19
  */
 @Service
@@ -827,7 +827,7 @@ import java.util.stream.Collectors;
 /**
  * 全局异常处理器
  *
- * @author LeoCoder
+ * @author SuperKevin
  * @since 2025-10-19
  */
 @Slf4j
@@ -910,7 +910,7 @@ import javax.validation.constraints.*;
 /**
  * 用户新增BO
  *
- * @author LeoCoder
+ * @author SuperKevin
  * @since 2025-10-19
  */
 @Data

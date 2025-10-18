@@ -269,15 +269,16 @@ const UserCard: React.FC<UserProps> = ({ user, onEdit }) => {
 
 如有问题或建议，请通过以下方式联系：
 
-- 创建 [Issue](https://github.com/kevinsuperme/Claude-Rules/issues)
+- 创建 [Issue](https://github.com/kevinsuperme/claude-md-rules/issues)
 - 发送邮件至：iphone.com@live.cn
+- **作者**: SuperKevin
 
 ## 🙏 致谢
 
 感谢所有为现代软件开发实践做出贡献的开发者和社区，特别是：
 
 - Domain-Driven Design 社区
-- Test-Driven Development 推广者
+- Test-Driven Development 推广者 SuperKevin
 - 各语言生态系统的维护者
 - AI 辅助开发工具的创新者
 
